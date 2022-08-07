@@ -1,0 +1,17 @@
+{
+  "name": "api-rest--produto",
+  "version": "1.0.0",
+  "description": "Estudo sobre API com Node e Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Victor Cordeiro - dopplerpng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.1",
+    "nodemon": "2.0.19"
+  }
+}
